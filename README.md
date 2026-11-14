@@ -1,4 +1,4 @@
-**Report (PDF):** [Great_Lakes_Ice_Report.pdf](docs/Great_Lakes_Ice_Report.pdf)
+**Report (PDF):** [Great_Lakes_Ice_Report.pdf](Great_Lakes_Ice_Report.pdf)
 
 # Great Lakes Ice Concentration Analysis (C / Gnuplot)
 
